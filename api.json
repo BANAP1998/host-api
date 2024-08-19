@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Web Development",
+      "image": "https://drive.google.com/file/d/152LmnEHP7wF_OtcJpRI2LrtyZuF0qFSp/view?usp=drive_link",
+      "description": "A leading web development company specializing in crafting custom, responsive, and user-friendly websites. We deliver innovative digital solutions that enhance user experience and drive business growth, with a focus on quality, creativity, and cutting-edge technology."
+    },
+    {
+      "id": 2,
+      "title": "App Development",
+      "image": "https://drive.google.com/file/d/1jQk3yHvNP1yyjlV62sN_1i67q2N6j30W/view?usp=drive_link",
+      "description": "A top app development company dedicated to creating high-quality, user-friendly mobile applications. We specialize in delivering innovative and scalable solutions that meet your business needs, leveraging the latest technology to ensure seamless performance and exceptional user experience."
+    },
+    {
+      "id": 3,
+      "title": "Software Development",
+      "image": "https://drive.google.com/file/d/1v7spl31bRuNObGUFkb4hS9GKc4ppVz37/view?usp=drive_link",
+      "description": "A premier software development company focused on delivering robust, scalable, and customized software solutions. We utilize cutting-edge technology to build software that meets your unique business requirements, enhancing efficiency, and driving growth with a commitment to quality and innovation."
+    },
+    {
+      "id": 4,
+      "title": "E-Commerce Websites",
+      "image": "https://drive.google.com/file/d/1tM8aiCsgjeXBDDqCHr-9GY26EUXCD4CK/view?usp=drive_link",
+      "description": "A leading provider of e-commerce website development, offering tailored, secure, and user-friendly online stores. We create seamless shopping experiences with integrated payment gateways, responsive design, and powerful backend management, enabling businesses to reach and engage customers effectively."
+    },
+    {
+      "id": 5,
+      "title": "Healthcare Portal",
+      "image": "https://drive.google.com/file/d/1qteNz-Lsxq1CzMUjMvHAkVNlIzh66zkh/view?usp=drive_link",
+      "description": "A specialized healthcare portal development company that designs secure, user-centric platforms for patients and healthcare providers. We build portals with features like online consultations, appointment scheduling, and health record management, ensuring seamless access to medical services and improving patient care"
+      
+    },
+    {
+      "id": 6,
+      "title": "Educational App",
+      "image": "https://drive.google.com/file/d/1BpXk4D4NyTC_2O9CA7xsyqseDXUP_N0C/view?usp=drive_link",
+      "description": "A premier developer of educational apps designed to enhance learning experiences. We create interactive and engaging applications with features like video tutorials, quizzes, and progress tracking, tailored to meet the needs of students and educators for effective and accessible education."
+    }
+  ]
